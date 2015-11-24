@@ -28,10 +28,4 @@ We are different because
 
 # Get Started
 
-Choose a learning path below.
-
-You want to learn
-
-* [iOS app](ios-app.md)
-* [Android app](android-app.md)
-* [Web app](webapp.md)
+Click [here](https://github.com/wilsonths/coding-academy/wiki) get started
